@@ -23,7 +23,7 @@ A simple web-based password generator that creates strong, random passwords to e
 ## 📂 How to Use
 
 1. Download or Clone the Repository
-git clone https://github.com/your-username/password-generator.git
+https://github.com/ManognaMandaloju26/Password-Generator.git
 
 2. Navigate to the Project Folder
 cd password-generator
